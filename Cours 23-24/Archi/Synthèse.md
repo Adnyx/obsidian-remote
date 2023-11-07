@@ -8,11 +8,11 @@ Stock les données nécessaires au bon fonctionnement du CPU
 Les données sont perdues une fois l'alimentation coupée
 
 ##### DRAM
-![[Pasted image 20231102134713.png]]
+![[DRAM.png]]
 Moins cher et plus simple. A une meilleure densité mais a besoin d'une fréquence de rafraichissement.
 
 ##### SRAM
-![[Pasted image 20231102134726.png]]
+![[SRAM.png]]
 Plus cher et plus complexe. Moins dense mais plus rapide (souvent utilisée comme cache (CPU))
 
 #### Caractéristiques de la RAM
@@ -72,7 +72,7 @@ Pour exploiter simultanément plusieurs barrettes afin de cumuler les débits
 - RDIMM: Il y a une puce qui s'occupe de l'adressage (+ latence)
 
 #### Rank
-![[Pasted image 20231102143731.png]]
+![[DRAM Ranks.png]]
 
 # CPU
 
