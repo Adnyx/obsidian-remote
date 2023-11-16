@@ -183,4 +183,30 @@ Sorting algorithm
 - 
 
 
+---
+
+#### Extensions de fichier
+
+- Réduire la taille des données pour économiser de l'espace de stockage
+- Données de + en + volumineuses
+- Importance d'optimiser l'espace et l'échange de données
+
+##### Méthodes de compression
+- Sans perte
+	Réécriture de façon concise, pas de solution universelle
+	- Possibilité de décompresser les données: 
+		- fichiers d'archives, fichiers textes, ...
+	- Basé sur la redondance et l'entropie. Implémentés grâce aux algorithmes
+		- LZW: .gif, .pdf, .tiff
+			- Choix fréquents d'entrées, 4096
+			- 0 à 255 bloqués pour les fichiers d'entrée
+			- Identification des séquences répétées 
+
+
+- Avec perte
+	Utilisée pour les données où la perte d'informations est imperceptible
+	- 
+
+ 
+
  

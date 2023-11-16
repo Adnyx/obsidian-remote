@@ -23,3 +23,15 @@
 ![[PDF-TRchap5.pdf]]
 
 
+---
+
+
+![[02 - TR1TR1 - chapitre 2 2023 2024 (new) fini.pdf]]
+
+---
+
+![[05 - TR1TR1 - chapitre 5 2023 2024 (new) fini.pdf]]
+
+---
+
+![[03 - TR1TR1 - chapitre 3 2023 2024 (new) fini.pdf]]

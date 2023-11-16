@@ -50,3 +50,46 @@ Problème du drapeau hollandais:
 			Algo: 
 				 1:  
 
+---
+
+##### Décodage:
+e     e   t   e    n     s    t    e   t   s       /
+10 10 00 10 111 010 00 10 00 010 011
+t     e     l      n    e     t
+00 10 0110 111 10 00
+t     e    s    t
+00 10 010 00
+t     e   /
+00 10 0
+##### Encodage:
+states
+010001100010010
+notes
+11101110010010
+
+E: 102
+A: 64
+S: 48
+C: 35
+T: 35
+G: 12
+H: 9
+
+##### LZW
+TOBEORNOTTOBEORTOBEORNOT
+
+T =1
+O = 2
+B = 3
+E = 4
+R = 5
+N = 6
+TO = 7
+BE = 8
+OR = 9
+NO = 10
+TT = 11
+TOB = 12
+ORN = 13
+OT = 14
+1 2 3 4 2 5 6 2 1 7 8 9 12 4 9 2 1

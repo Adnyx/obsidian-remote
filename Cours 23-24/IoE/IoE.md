@@ -30,3 +30,17 @@ Règle des 3V:
 	- volume
 	- vélocité (vitesse et besoin de vitesse)
 	- variété
+
+Challenges du Big data:
+- Management
+- Sécurité
+- Redondance
+- Analyse
+- Accès
+
+5 Critères d'un serveur
+- Location
+- Sécurité
+- Electrical
+- Environmental
+- Network

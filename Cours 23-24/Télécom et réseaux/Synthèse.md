@@ -87,7 +87,6 @@ F/UTQ -> plusieurs cables ensembles
 - LC
 - Duplex multimode LC
 
-
 ##### Il y a 4 caractéristiques de base pour répondre aux besoins des utilisateurs
 - Tolérence aux pannes
 	Pour que le réseau soit en permanence disponible
@@ -96,4 +95,36 @@ F/UTQ -> plusieurs cables ensembles
 -  Qualité de service
 	Utilisation de niveaux de priorités, classer les informations selon leur importance
 -  Sécurité
+
+## Adressage IP
+
+##### Rappel: Binaire
+| ...      | 1024 | 512 | 256 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| -------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Exemple1 | 0    | 0   | 0   | 0   | 0   | 1   | 0   | 1   | 1   | 0   | 1   |
+| Exemple2 |      |     |     |     |     | 1   | 1   | 1   | 1   | 0   | 0    |
+
+Pour traduire du binaire au décimal, il faut additionner les nombres qui correspondent à la colonne dans lesquelles les 1 se trouvent. Voir Exemple1: 101101 vaut 45 car 32+8+4+1 = 45
+
+Pour traduire du décimal au binaire, il faut vérifier quel est le plus grand nombre dans la table qui rentre dans notre nombre à traduire, ajouter un 1 dans la colonne où c'est le cas et répéter. Voir Exemple2:  Pour traduire 60 en binaire, on voir que 32 est le plus grand chiffre de la table qui entre dans 60, on ajoute un 1 dans la colonne du 32 et on le soustrait à 60. 60-32 = 28. 16 entre dans 28 donc on ajoute un 1 et on le soustrait à 28. On obtient 12, 8 entre dans 12 donc on ajoute un 1 et on soustrait. on obtient 4, 4 est le plus grand nombre qui entre dans 4 donc on ajoute un 1 et on le soustrait. On obtient 0, 2 n'entre pas dans 0 donc on met un 0 dans la colonne, 1 n'entre pas dans 0 donc on met un 0 dans la colonne. On peut vérifier notre opération en traduisant du binaire au décimal. 32+16+8+4 = 60, l'opération est correcte.
+
+
+##### Classes d'IP
+| Classes | Masque réseau | Adresse Réseau              |
+| ------- | ------------- | --------------------------- |
+| A       | 255.0.0.0     | 1.0.0.0   - 126.255.255.255 |
+| B       | 255.255.0.0   | 128.0.0.0 - 191.255.255.255 |
+| C       | 255.255.255.0 | 192.0.0.0 - 223.255.255.255 |
+| D       | 240.0.0.0     | 224.0.0.0 - 239.255.255.255 |
+| E       | Non défini    | 240.0.0.0 - 255.255.255.255 |
+
+##### Plage d'IP privées
+| Préfixe         | Plage  IP                   |
+| --------------- | --------------------------- |
+| 10.0.0.0 /8     | 10.0.0.0 - 10.255.255.255   |
+| 172.16.0.0 /12  | 172.16.0.0 - 172.31.255.255 |
+| 192.168.0.0 /16 | 192.168.0.0 - 192.168.255.255                        |
+
+Le nombre maximum d'hôtes est de 2^n. Où n = au nombre de bit dans le Host ID
+Voir exercice papier.
 
