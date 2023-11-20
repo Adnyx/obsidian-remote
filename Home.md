@@ -21,8 +21,6 @@
 
 ## Prépas
 - [ ] Exercices technique numérique📅23-11-08
-- [ ] 
-## Projets
-- [ ] launch on startup server et wireguard
-- [ ] 
+- [ ] Télécom et réseau exercices
+
 
