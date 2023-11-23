@@ -10,7 +10,14 @@
 	- [x] Adressage IP ✅ 2023-11-15
 	- [ ] 
 - [ ] 🔼 Prog
+	- [ ] Récursivité
+	- [ ] Dictionnaires
+	- [ ] Tuples
+	- [ ] Sorting algorithms
+	- [ ] 
 - [ ] 🔼 Électricité
+	- [ ] Synthèse théorie
+	- [ ] Exercices théorie
 - [ ] 🔼 Architecture des ordinateurs - In Progress
 	- [x] RAM ✅ 2023-11-02
 	- [ ] CPU
@@ -20,7 +27,7 @@
 - [ ] ⏫Techniques numériques
 
 ## Prépas
-- [ ] Exercices technique numérique📅23-11-08
+- [x] Exercices technique numérique📅23-11-08 ✅ 2023-11-23
 - [ ] Télécom et réseau exercices
 
 
