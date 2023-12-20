@@ -11,7 +11,7 @@
 	- [ ] Adressage IPv6
 - [ ] 🔼 Prog
 	- [ ] Synthèses pour chaque tests
-		- [ ]  Boucles
+		- [ ] Boucles
 		- [ ] Listes
 		- [ ] Fonctions
 		- [ ] Tuples & Dictionnaires
@@ -27,7 +27,7 @@
 	- [ ] GPU
 	- [ ] PSU
 
-- [ ] ⏫Techniques numériques
+- [x] ⏫Techniques numériques  [completion:: 2023-12-20]
 	- [x] Manip 1 à 5 ✅ 2023-12-20
 		- [x] feuilles complété ✅ 2023-12-11
 		- [x] multisim ✅ 2023-12-20

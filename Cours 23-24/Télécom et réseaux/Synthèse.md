@@ -129,3 +129,12 @@ Pour traduire du décimal au binaire, il faut vérifier quel est le plus grand n
 Le nombre maximum d'hôtes est de 2^n. Où n = au nombre de bit dans le Host ID
 Voir exercice papier.
 
+### IPv6
+
+Écriture hexadécimale, par groupement de 16bits avec un total de 128bits (8 groupements)
+longueur de préfixe (=masque de sous réseau) en format /nbr. 
+Les 0 non significatifs sont facultatifs. Les groupements 0000 qui se suivent peuvent être simplifiés en :: (à un seul endroit uniquement)
+
+Ex: 2001:ACAD:0030:2E3F:0D03:0000:0000:0008
+	-> 2001:ACAD:30:2E3F:D03::8
+
