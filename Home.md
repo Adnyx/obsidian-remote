@@ -7,14 +7,17 @@
 	- [x] Basics ✅ 2023-11-15
 	- [x] Binaire ✅ 2023-11-15
 	- [x] Cable réseau ✅ 2023-11-15
-	- [x] Adressage IP ✅ 2023-11-15
-	- [ ] 
+	- [ ] Adressage IPv4 - In progress (finir calcul d'ip)
+	- [ ] Adressage IPv6
 - [ ] 🔼 Prog
-	- [ ] Récursivité
-	- [ ] Dictionnaires
-	- [ ] Tuples
-	- [ ] Sorting algorithms
-	- [ ] 
+	- [ ] Synthèses pour chaque tests
+		- [ ]  Boucles
+		- [ ] Listes
+		- [ ] Fonctions
+		- [ ] Tuples & Dictionnaires
+		- [ ] Exceptions & Tests
+		- [ ] Chaines et listes avancé
+		- [ ] Fichiers
 - [ ] 🔼 Électricité
 	- [ ] Synthèse théorie
 	- [ ] Exercices théorie
@@ -25,13 +28,13 @@
 	- [ ] PSU
 
 - [ ] ⏫Techniques numériques
-	- [ ] Manip 1 à 5
+	- [x] Manip 1 à 5 ✅ 2023-12-20
 		- [x] feuilles complété ✅ 2023-12-11
-		- [ ] multisim
-	- [ ] Projet
+		- [x] multisim ✅ 2023-12-20
+	- [x] Projet ✅ 2023-12-20
 
 ## Prépas
 - [x] Exercices technique numérique📅23-11-08 ✅ 2023-11-23
-- [ ] Télécom et réseau exercices
+- [x] Télécom et réseau exercices ✅ 2023-12-20
 
 
