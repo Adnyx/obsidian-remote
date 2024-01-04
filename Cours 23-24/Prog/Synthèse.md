@@ -372,3 +372,43 @@ import os
 
 os.rmdir("monDossier") #Supprime le dossier uniquement s'il est vide.
 ```
+
+# Les exceptions
+
+Les exceptions servent à controller les potentielles erreurs et éviter les crashs. 
+
+##### Try - Except
+
+En python, pour gérer les erreurs, on va utiliser la notation 
+```python
+try:
+	#code here
+except #exceptions:
+	#code here
+```
+
+Par exemple, si le code demande de diviser par un input utilisateur, il va de soi que l'input ne puisse pas être 0, ça mènerait à une `ZeroDivisionError`. Mais on ne veut pas que le programme crash pour autant si ça arrive. On peut donc utiliser une structure du genre:
+
+```python
+while true:
+	try:
+		print("Que voulez-vous diviser ?(x/y)")
+		x = input("x: ")
+		y = input("y: ")
+		print(x/y)
+	except ZeroDivisionError:
+		print("Veuillez ne pas diviser par 0")
+```
+
+#### Erreurs de base:
+
+- ZeroDivisionError:
+	Quand on force python à diviser par 0
+- ValueError
+	Lorsqu'une fonction reçoit un argument d'un type approprié mais d'une valeur inacceptable
+- TypeError
+	Lorsqu'une donnée n'a pas le bon type
+- AttributeError
+	Lorsqu'on essaie d'activer une méthode qui n'existe pas
+- SyntaxError
+	Lorsqu'on commet une erreur de syntaxe

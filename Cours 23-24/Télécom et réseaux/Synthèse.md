@@ -109,7 +109,7 @@ Pour traduire du binaire au décimal, il faut additionner les nombres qui corres
 
 Pour traduire du décimal au binaire, il faut vérifier quel est le plus grand nombre dans la table qui rentre dans notre nombre à traduire, ajouter un 1 dans la colonne où c'est le cas et répéter. Voir Exemple2:  Pour traduire 60 en binaire, on voir que 32 est le plus grand chiffre de la table qui entre dans 60, on ajoute un 1 dans la colonne du 32 et on le soustrait à 60. 60-32 = 28. 16 entre dans 28 donc on ajoute un 1 et on le soustrait à 28. On obtient 12, 8 entre dans 12 donc on ajoute un 1 et on soustrait. on obtient 4, 4 est le plus grand nombre qui entre dans 4 donc on ajoute un 1 et on le soustrait. On obtient 0, 2 n'entre pas dans 0 donc on met un 0 dans la colonne, 1 n'entre pas dans 0 donc on met un 0 dans la colonne. On peut vérifier notre opération en traduisant du binaire au décimal. 32+16+8+4 = 60, l'opération est correcte.
 
-
+### IPv4
 ##### Classes d'IP
 | Classes | Masque réseau | Adresse Réseau              |
 | ------- | ------------- | --------------------------- |
@@ -129,6 +129,8 @@ Pour traduire du décimal au binaire, il faut vérifier quel est le plus grand n
 Le nombre maximum d'hôtes est de 2^n. Où n = au nombre de bit dans le Host ID
 Voir exercice papier.
 
+Il y a toujours deux adresses dans un réseau qu'on ne peut pas utiliser: la première et la dernière. 
+
 ### IPv6
 
 Écriture hexadécimale, par groupement de 16bits avec un total de 128bits (8 groupements)
@@ -138,3 +140,17 @@ Les 0 non significatifs sont facultatifs. Les groupements 0000 qui se suivent pe
 Ex: 2001:ACAD:0030:2E3F:0D03:0000:0000:0008
 	-> 2001:ACAD:30:2E3F:D03::8
 
+
+# Modèle OSI (open system interconnection)
+
+Le modèle OSI est une norme de communication réseau.
+
+| Couche | Nom         | Explication |
+| ------ | ----------- | ----------- |
+| 7      | Application | Point d'accèès aux service réseau            |
+| 6      | Présentation            | Conversion et chiffrement/déchiffrement des données en données exploitables.            |
+| 5      | Session            | Communication Interhost. Gère les sessions entre les différentes applications.            |
+| 4      | Transport            | Connexion de bout en bout et contrôle de flux (TCP/UDP).            |
+| 3      | Réseau            | Détermine le parcours et l'adressage logique (IP).            |
+| 2      | Liaison            | Adressage physique (MAC).            |
+| 1       | Physique            | Transmission binaire numérique ou analogique.            |
