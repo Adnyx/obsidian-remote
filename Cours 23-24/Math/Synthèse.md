@@ -56,7 +56,17 @@ Les nombres trigonométriques d'un angle $\alpha$ sont définis par le $\cos \al
 
 Une matrice n x m est un tableau de nombres à n lignes et m colonnes
 
-$\begin{equation*}A_{3,3}=  \\\begin{pmatrix}1&2&3 \\2&2&4 \\4&5&2\end{pmatrix}\end{equation*}$
+$$
+\begin{equation*}
+A_{3,3}=  \\
+
+\begin{pmatrix}
+1&2&3 \\
+2&2&4 \\
+4&5&2
+\end{pmatrix}
+\end{equation*}
+$$
 Si $m=1$, la matrice est appelée vecteur.
 Si $n=m$, la matrice est une matrice carrée.
 Une matrice est symétrique si $A_{ji}=A_{ij}$.
@@ -106,9 +116,10 @@ $$
 $$
 ##### Multiplication d'une matrice par une autre
 
+Pour multiplier deux matrices, le nombre de colonnes de la matrice A doit être égal au nombre de lignes de la matrice B pour que le produit AB soit possible.
+Le produit de la matrice AB est obtenu en multipliant chaque ligne de A avec chaque colonne de B
 
-
-
+https://fr.khanacademy.org/math/terminale-option-math-expertes/x8ee233d324ccfb2e:matrices/x8ee233d324ccfb2e:operations-sur-les-matrices/v/multiplying-a-matrix-by-a-matrix
 #### Transposition
 On peut transposer une matrice en échangeant les lignes et le colonnes:
 $$
