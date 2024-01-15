@@ -45,7 +45,7 @@ Le serveur stocke une version hachée du mdp, et quand l'utilisateur se login, l
 
 Le salage consiste à (comme ajouter du sel dans un plat) ajouter une chaine de caractères au début ou à la fin d'un mdp pour le sécuriser plus.
 
-	 
+
 # Blockchain
 
 # Temple OS
