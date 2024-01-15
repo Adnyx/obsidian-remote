@@ -62,7 +62,9 @@ Ici, c'est l'inverse. Il n'y a pas de "middle man" en qui on doit avoir confianc
 # Temple OS
 Un schizophrène crée un OS car dieu lui a demandé. Il a créé son propre language, le Holy C. Il y a pleins de programmes religieux dessus. Tout l'OS se déroule dans la console, certains programmes sont assez complexes.
 
-# Google Glas
+# Google Glass
+Dans la vidéo c'est pas les google glasses qui sont importantes, à la fin il explique qu'il y a 2 types d'apprentissages: le book learning et le expansive learning. Le book learning c'est apprendre ce que l'humanité connait déjà et le expansive learning c'est
+
 
 # Failles web + whatsapp
 
