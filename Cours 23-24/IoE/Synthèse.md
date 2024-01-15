@@ -44,11 +44,19 @@ Hashing: plaintext -> ciphertext
 Le serveur stocke une version hachée du mdp, et quand l'utilisateur se login, le serveur calcul son hachage et vérifie si ils correspondent.
 
 Le salage consiste à (comme ajouter du sel dans un plat) ajouter une chaine de caractères au début ou à la fin d'un mdp pour le sécuriser plus.
-
-
 # Blockchain
+La blockchain est une technologie de stockage et de transmition d'informations. Elle est transparente, sécurisée et fonctionne sans organe central de contrôle.
+Elle contient l'historique de toutes les transactions effectuées depuis sa création.
+
+Les blockchains publiques ont besoin d'un token programmable. Les transactions sont regroupées en blocs et chaque bloc est vérifié par une technique de "Proof of work" (preuve de fonctionnement, minage). Une fois validé, le bloc est ajouté à la chaine.
+
+Avantages de sécurité, de réduction des coûts, de dématérialisation de processus et une atténuation des risques. 
+Par contre, il existe des problèmes juridiques, les transactions sont lentes, 
+
+
 
 # Temple OS
+Un schizophrène crée un OS car dieu lui a demandé. Il a créé son propre language, le Holy C. Il y a pleins de programmes religieux dessus. Tout l'OS se déroule dans la console, certains programmes sont assez complexes.
 
 # Google Glas
 
