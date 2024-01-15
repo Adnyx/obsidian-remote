@@ -1,3 +1,71 @@
+
+# Bases de l'IoE
+
+##### Phases de l'évolution d'internet:
+- connectivité
+- économie de réseau
+- expériences de collaboration
+- IoE
+
+##### Les Piliers de l'IoE
+- Les personnes: Elles utilisent les réseaux et créent les liens
+- Les objets: Ils lient les gens, ils sont connectés, ils recueillent des données
+- Les processus: Ils interviennent entre tous les piliers, rendent les connections pertinentes
+- Les données: Elles sont traitées et utilisée de manière pertinentes
+Connections entre les piliers: 
+- M2M: machine to machine
+- M2P: machine to pier
+- P2P: pier to pier
+##### Tailles de réseaux:
+- PAN: Tout petit
+- LAN: Réseau de maison ou d'école
+- MAN: Ville
+- WAN: Internet
+
+##### Deux états de données:
+- Structurées, qui peuvent être analysées
+- Non structurées, qui ne peuvent pas l'être
+
+##### Le Big-Data
+Il y a les 3 grands V du big-data:
+- Volume: Taille des données
+- Variété: Types de données
+- Vélocité: Vitesse de débit
+Le Big-Data c'est analyser en masse des données recueillies afin de prévoir les tendances et prédir les clients.
+
+##### La virtualisation
+Machine virtuelle sur une autre machine (serveurs)
+
+##### Cloud computing
+Moyen de stocker et gérer les données.
+- Cloud privé (entreprise)
+- Cloud publique (Drive)
+- Cloud communautaire
+- Cloud hybride (mix d'au moins 2 infrastructures)
+
+##### Modèle OSI - TCP/IP
+
+OSI:
+7) Application
+6) Présentation
+5) Session
+4) Transport
+3) Réseau
+2) Liaison
+1) Physique
+
+TCP/IP:
+- Application
+- Transport
+- Internet
+- Interface réseau
+
+##### Cloud computing != Fog computing
+Cloud computing: Données centralisées ou non, sert de stockage de données.
+Fog computing: Données non centralisées, stockage temporaire, permet aux périphériques IoT de continuer de fonctionner en cas de perte de réseau. Les données restent dans le réseau.
+
+
+
 # Cryptographie
 
 ### Cryptographie != Stéganographie

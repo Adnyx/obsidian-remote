@@ -5,15 +5,16 @@
 ## Synthèses
 
 - [ ] 🔼 IoE
+	- [ ] Bases de l'IoE
 	- [x] Find out what the fuck to study  [completion:: 2024-01-15]
-	- [ ] Temple OS
+	- [x] Temple OS  [completion:: 2024-01-15]
 	- [x] Cryptographie  [completion:: 2024-01-15]
-	- [ ] Google glas
-	- [ ] AES RSA
+	- [x] Google glas  [completion:: 2024-01-15]
+	- [x] AES RSA  [completion:: 2024-01-15]
 	- [x] 10 Failles web, whatsapp  [completion:: 2024-01-15]
-	- [ ] Hachage
-	- [ ] Blockchain
-	- [ ] Présentations élèves
+	- [x] Hachage  [completion:: 2024-01-15]
+	- [x] Blockchain  [completion:: 2024-01-15]
+	- [x] Présentations élèves  [completion:: 2024-01-15]
 
 - [x] 🔼 Télécom et réseaux - In Progress ✅ 2023-11-29
 	- [x] Basics ✅ 2023-11-15
