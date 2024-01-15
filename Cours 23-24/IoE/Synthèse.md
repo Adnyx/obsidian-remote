@@ -1,0 +1,65 @@
+# Cryptographie
+
+### Cryptographie != Stéganographie
+La cryptographie sert à cacher et codes des messages pour les rendre invisibles alors que la stéganographie cache l'existance d'un message. (cacher le contenu du message vs cacher le message)
+
+La cryptographie a toujours été une course entre les cryptologues et les cryptanalystes (ou décrypteurs/hackeurs). Cette course a forcer les deux camps à élaborer des techniques toujours plus complexes.
+
+### Périodes de la cryptographie
+Il existe 4 périodes de la cryptographie qui se démarquent.
+La cryptographie:
+- Manuelle;
+	- Coursier, fumée, lumière, bruit,...
+- Mécanique (ou électromécanique);
+	- Télégraphe de Chappe (utilisation d'un code pour décrypter le message)
+- Moderne (ou numérique);
+	- Ordinateurs plus ou moins modernes
+- Quantique;
+	- Ordinateurs quantiques
+
+### La guerre et la cryptographie
+
+Il était primordial pendant la guerre de garder des secrets. Il était tout aussi primordial de déchiffrer les secrets ennemis.
+Meilleur exemple: Enigma. Cryptographe allemand réputé incassable mais prouvé cassable par les anglais en 43 ce qui jouera un rôle important dans la victoire des alliés. 
+
+### Hack !
+
+Sur internet, il existe plusieurs couches: 
+- le Surface web:
+	- Celui qu'on connait tous. Dans celui-ci, tous les sites sont consultables par les moteurs de recherches.
+- le Deep web:
+	- Les sites du deep web ne sont pas indexés par les moteurs de recherches, donc inacessibles.
+- le Dark web (oouuuuh)
+	- Sous ensemble de web invisible, chiffré, le web browser TOR permet d'y accéder. 
+# AES RSA
+
+# Hashage
+### Hashing et Salting
+
+
+
+
+# Blockchain
+
+# Temple OS
+
+# Google Glas
+
+# Failles web + whatsapp
+
+### Failles courrantes
+1) Oubli de valider les entrées utilisateurs (injections SQL)
+2) Mauvais contrôle d'accès (Liste de mdp visible, pas de mdp par défaut)
+3) Vol de session
+4) Injection de code dans un site
+5) Dépassement de mémoire tampon
+6) Injection de commandes (!= de l'injection de code)
+7) Mauvaise gestion d'erreurs
+8) Mauvais chiffrement
+9) Faille dans l'administration distante
+10) Mauvaise configuration du serveur web
+
+### Piratage Whatsapp
+Suite à un leak de base de donnée, une vague de spam et de phishing est survenue sur whatsapp 
+
+# Présentations élèves

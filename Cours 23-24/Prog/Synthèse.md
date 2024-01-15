@@ -412,3 +412,77 @@ while true:
 	Lorsqu'on essaie d'activer une méthode qui n'existe pas
 - SyntaxError
 	Lorsqu'on commet une erreur de syntaxe
+
+
+
+# Synthèse de synthèse
+
+
+Les programmes servent à donner des instruction à une machine.
+- Language machine (binaire, que la machine comprend)
+- Programme source (language de code)
+
+Deux méthodes:
+- Compilation 
+- Interprétation 
+
+Méthodes à adopter lors de la programmation:
+- Définition de besoin
+- Analyse
+- Implémentation
+- Tests
+- Maintenance
+
+Computational thinking:
+- Décomposition
+- Pattern recognition
+- Abstraction
+- Algorithm
+
+Paradigmes:
+- Programmation impérative (procédurale)
+- POO (orienté objet)
+- Déclarative
+
+Preuves d'un algorithme
+- Terminaison
+- Correction
+- Complétude
+
+Liste chainée
+Chaque noeud contient un lien vers le suivant
+
+
+### Les tris
+- Tri en place (n'utilise pas d'éléments extérieurs pour trier)
+- Tri non en place (ex. tampon)
+- Tri stable (L'emplacement de variables de même valeurs est connu)
+- Tri non stable (l'inverse du tri stable)
+
+### Structure d'un projet
+- Module
+	- Contient les scripts
+- Définition  d'un package
+	- Répertoire des packages
+- Informations pour l'installation
+	- Setup.py
+- tests
+
+### Programmation évènementielle
+
+Attend un évènement pour fonctionner (l'utilisateur a le contrôle)
+
+- Event loop: Vérification d'un évènement
+- Event source:
+- Event dispatcher: Envoi au event handler l'évènement correspondant
+- Event handler: Elle effectue la fonction correspondante à l'évènement
+- Bind: Event handler lié à un objet graphique
+
+### Compression de donnée
+
+LZW et Huffman
+
+<h1 style="color:red;text-align:center"> Hello </h1>
+
+<a href="https://google.be" style="text-decoration:none">google.be</a>
+[google.be](https://google.be)

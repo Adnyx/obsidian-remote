@@ -7,18 +7,21 @@ Vocabulaire:
 - Domaine de définition: ensemble des entrées acceptées par la fonction sur l'axe $x$, ex: $Dom f(x) = [-7,7]$.
 - Ensemble Image: Même chose que le domaine de définition mais sur l'axe $y$.
 - Les racines: les zéros d'une fonction.
-- Injectif: 
-- Surjectif: 
-- Bijectif: à la fois injectif et surjectif
+- Fonctionnelle: Plusieurs éléments de A ne peuvent pas être envoyés sur 1 élément de B
+- Injective: Tout élément de B reçoit max 1 élément de A
+- Surjective: B doit recevoir au moins 1 élément de A
+- Bijective: à la fois injectif et surjectif
 - Partout définie: Une droite verticale doit couper le graphe en 1 et 1seul point
 - Paire: Symétrie avec l'axe Oy
-- Impaire:
+- Impaire: Symétrie centrale
+- Application: Si $domf$ = ensemble A
 ### Droites
 Équation d'une droite: $y=mx+p$
 où $m$ est la pente, $m=\frac{\Delta y}{\Delta x}$
 et $p$ est l'ordonnée à l'origine (adaptation de la formule), $p=y_{A}-mx_{A}$
 
 Deux droites sont parallèles si $m_{d_{1}}=m_{d_{2}}$. Elles sont parallèles et confondues si en plus, $p_{d_{1}}=p_{d_{2}}$
+Deux droites sont perpendiculaires si $m_{1}*m_{2}=-1$ 
 
 ### Paraboles
 Équation d'une parabole: $f(x)=ax^2+bx+c$ où $a\in \mathbb{R}_{0}$ et où $b$,$c$ $\in \mathbb{R}$

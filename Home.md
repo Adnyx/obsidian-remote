@@ -5,7 +5,15 @@
 ## Synthèses
 
 - [ ] 🔼 IoE
-	- [ ] Find out what the fuck to study
+	- [x] Find out what the fuck to study  [completion:: 2024-01-15]
+	- [ ] Temple OS
+	- [x] Cryptographie  [completion:: 2024-01-15]
+	- [ ] Google glas
+	- [ ] AES RSA
+	- [x] 10 Failles web, whatsapp  [completion:: 2024-01-15]
+	- [ ] Hachage
+	- [ ] Blockchain
+	- [ ] Présentations élèves
 
 - [x] 🔼 Télécom et réseaux - In Progress ✅ 2023-11-29
 	- [x] Basics ✅ 2023-11-15
@@ -41,10 +49,10 @@
 		- [x] multisim ✅ 2023-12-20
 	- [x] Projet ✅ 2023-12-20
 
-- [ ] Math
-	- [ ] Fonctions
-	- [ ] Trigo
-	- [ ] Matrices - In progress
+- [x] Math  [completion:: 2024-01-15]
+	- [x] Fonctions  [completion:: 2024-01-07]
+	- [x] Trigo  [completion:: 2024-01-15]
+	- [x] Matrices - In progress  [completion:: 2024-01-07]
 
 ## Prépas
 - [x] Exercices technique numérique📅23-11-08 ✅ 2023-11-23
