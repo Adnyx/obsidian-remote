@@ -51,9 +51,13 @@ Elle contient l'historique de toutes les transactions effectuées depuis sa cré
 Les blockchains publiques ont besoin d'un token programmable. Les transactions sont regroupées en blocs et chaque bloc est vérifié par une technique de "Proof of work" (preuve de fonctionnement, minage). Une fois validé, le bloc est ajouté à la chaine.
 
 Avantages de sécurité, de réduction des coûts, de dématérialisation de processus et une atténuation des risques. 
-Par contre, il existe des problèmes juridiques, les transactions sont lentes, 
+Par contre, il existe des problèmes juridiques, les transactions sont lentes, mauvais passage à l'échelle par rapport au nombre de transaction, très très mauvais pour l'écosystème.
 
+### Tiers de confiance (modèle centralisé)
+C'est quelqu'un (ou quelque chose) qui joue l'intermédiaire dans les échanges. ça facilite les échanges mais c'est un single point of failure, et la dépendance envers le tiers de confiance.
 
+### Modèle décentralisé
+Ici, c'est l'inverse. Il n'y a pas de "middle man" en qui on doit avoir confiance puisque tous les utilisateurs se parlent entre eux. Donc pas de single point of failure, pas de dépendance à un tiers par contre, difficulté à évoluer, à accéder aux informations,...
 
 # Temple OS
 Un schizophrène crée un OS car dieu lui a demandé. Il a créé son propre language, le Holy C. Il y a pleins de programmes religieux dessus. Tout l'OS se déroule dans la console, certains programmes sont assez complexes.
