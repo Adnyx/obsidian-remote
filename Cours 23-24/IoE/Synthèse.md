@@ -33,12 +33,19 @@ Sur internet, il existe plusieurs couches:
 	- Sous ensemble de web invisible, chiffré, le web browser TOR permet d'y accéder. 
 # AES RSA
 
-# Hashage
-### Hashing et Salting
+# Hashing
+### Hashing et Salting de mots de passe
 
+Le chiffrement d'un mot de passe est utilisé lorsqu'on doit récupérer le mdp en texte clair.
+Chiffrement: plaintext -> ciphertext. Si déchiffré: ciphertext -> plaintext
 
+Le hachage est similaire au chiffrement mais il ne va que dans un sens.
+Hashing: plaintext -> ciphertext
+Le serveur stocke une version hachée du mdp, et quand l'utilisateur se login, le serveur calcul son hachage et vérifie si ils correspondent.
 
+Le salage consiste à (comme ajouter du sel dans un plat) ajouter une chaine de caractères au début ou à la fin d'un mdp pour le sécuriser plus.
 
+	 
 # Blockchain
 
 # Temple OS
