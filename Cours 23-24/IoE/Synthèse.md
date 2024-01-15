@@ -88,3 +88,14 @@ Dans la vidéo c'est pas les google glasses qui sont importantes, à la fin il e
 Suite à un leak de base de donnée, une vague de spam et de phishing est survenue sur whatsapp 
 
 # Présentations élèves
+
+### Intelligences artificielles
+Il y a différents types d'IA. Celles qui traitent du texte, celles qui reconnaissent des images, celle qui apprennent automatiquement (Machine Learning), celles qui peuvent générer du contenu (image, texte, musique,...) et des IA de navigations.
+Les IA posent des problèmes étiques. 
+Il est possible d'attaquer les IAs avec notamment avec des prompt injections.
+
+Le machine learning utilise des algorithmes pour que l'IA puisse tirer des conclusions en apprenant.
+Le deep learning est une sous-catégorie du machine learning mais qui utilise des réseaux ne neurones.
+
+### IA et voitures 
+Les IA sont déjà dans nos voitures, avec par exemple les assistance à la décision. 
