@@ -33,6 +33,10 @@ Sur internet, il existe plusieurs couches:
 	- Sous ensemble de web invisible, chiffré, le web browser TOR permet d'y accéder. 
 # AES RSA
 
+RSA: A envoi à B -> sécurisation avec clé publique de B -> B décrypte avec sa clé privée
+
+AES: Text + clé secrète -> cipher
+
 # Hashing
 ### Hashing et Salting de mots de passe
 
