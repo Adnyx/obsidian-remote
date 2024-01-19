@@ -80,4 +80,5 @@ $R_{a}=\frac{R_{1}.R_{2}}{R_{1}+R_{2}+R_{3}}$
 
 ### Mesure
 Ampèremètre toujours en série
+Voltmètre en parallèle 
 

@@ -4,8 +4,8 @@
 [Github](https://github.com/Adnyx/obsidian-remote)
 ## Synthèses
 
-- [ ] 🔼 IoE
-	- [ ] Bases de l'IoE
+- [x] 🔼 IoE  [completion:: 2024-01-17]
+	- [x] Bases de l'IoE  [completion:: 2024-01-17]
 	- [x] Find out what the fuck to study  [completion:: 2024-01-15]
 	- [x] Temple OS  [completion:: 2024-01-15]
 	- [x] Cryptographie  [completion:: 2024-01-15]
