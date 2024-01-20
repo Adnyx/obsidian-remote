@@ -1,3 +1,4 @@
+## Chapitre 1
 ### 1. Tension
 Tension(Différence de potentiel): $U$ en volt
 Excès d'élections: $V_{P}$
@@ -73,3 +74,45 @@ $I_{1}=\frac{R_{2}}{R_{1}+R_{2}}.I_{e}$
 Tension continue: Le voltmètre se place TOUJOURS en parallèle
 Courant continu: L'ampèremètre se place TOUJOUTS en série
 
+
+## Chapitre 2 L'électrostatique
+### 1. Étude des charges
+Un corps est neutre quand $q(t)=0C$, $q(t)$ étant la quantité de charge en Coulomb. $1C =6,25.10^{18}e^-$
+
+Un corps est chargé quand $\sum_{alg} q_{(t)}\neq 0C$
+Un corps est chargé négativement lorsqu'il y a un excès d'électrons
+Un corps est chargé positivement lorsqu'il y un un manque d'électrons
+
+### 2. Loi de Coulomb
+Soit 2 charges ponctuelles: q1 positive et q2 négative, séparés par une distance r.
+La force $\vec{F}$ de q1 sur q2 s'exprime par la loi de coulomb:
+$|\vec{F}|= \frac{|q_{1}|.|q_{2}|.|\vec{1r}|}{4\pi\varepsilon 0}$ en newton
+et $|\vec{F_{q_{1}}}|= -|\vec{F_{q_{2}}}|$
+
+### 3. Le champ électrostatique
+$\vec{E}=\frac{\vec{F}}{q}$ , q étant une charge unitaire. $[\frac{N}{C}]$
+Si un en 1 point donné, il existe plusieurs champs, il faut les additionner.
+
+### 4. Le potentiel 
+La différence de potentiel entre M et P:
+$U_{MP}=\int_{M}^{P}\vec{E}.\vec{dl} =U_{P}-U_{M}$
+
+Pour ces cas particuliers, c'est plus simple:
+Potentiel dû à une charge ponctuelle: $U_{P}=\frac{q}{4\pi \varepsilon_{0} .r}$
+
+### 5. Le condensateur
+##### 5.1 Principe
+Des charges A et B équilibrées de part et d'autre d'un isolant. On ajoute un dispositif pour charger positivement A et négativement B. un champ $\vec{E}$ se crée. Si il y a un $\vec{E}$, il y a une $U_{AB}$.
+Par définition: $C = \frac{q_{A}}{U_{AB}} = \frac{q_{B}}{U_{AB}}$ 
+
+##### 5.2 Condensateur plan
+Deux barres parallèles A et B de charges opposées sont à une distance d.
+$C = \varepsilon_{0}\frac{S}{d}$ (vide d'air)
+$C = \varepsilon_{0}\varepsilon_{r}\frac{S}{d}$ (autre que le vide d'air)
+
+##### 5.3 plusieurs condensateurs
+En parallèle: $C_{eq}=C_{1}+C_{2}+C_{3}$
+En série: $C_{eq}=\frac{1}{\frac{1}{C_{1}}+\frac{1}{C_{2}}+\frac{1}{C_{3}}}$
+
+##### 5.4 Énergie électrostatique
+$W = \frac{1}{2}CU^2$
