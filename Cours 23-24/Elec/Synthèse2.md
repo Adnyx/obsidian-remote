@@ -15,11 +15,12 @@ Les matériaux ont des propriétés différentes. Une de ces propriété est la 
 ##### 3.1. Loi de Pouillet: 
 $R =\frac{\rho.l}{S}$ où $\rho$ est la résistivité du matériau($\Omega.m$), $l$ est la longueur en $m$ et S et la surface en $m^2$
 /!\\ Cette loi n'est valable qu'à une température de 0°C
-/!\\ Le $\rho$ du cuivre est de $1,6.10^{-8}\Omega.m$
+/!\\ Le $\rho$ du cuivre à 0°C est de $1,6.10^{-8}\Omega.m$
 
 ##### 3.2. Loi de Mathiessen: 
 $R_{T}=R_{0}.(1+\alpha.T)$ où $R_{T}$ est la R à la température voulue, $R_{0}$ est R à 0°C, $\alpha$ est le coefficient de température($°C^{-1}$) et T la température en °C
 Cette loi s'applique aussi sur la résistivité des matériaux: $\rho_{T}=\rho_{0}(1+\alpha T)$ où $\alpha = 0,004°C^{-1}$ 
+Le coefficient de température du Cu est $\alpha_{Cu}=0,004°C^{-1}$
 
 Relation entre $U, I$ et $R$: $R=\frac{U}{I}$
 
