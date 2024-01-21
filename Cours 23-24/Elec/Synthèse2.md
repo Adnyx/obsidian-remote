@@ -55,7 +55,7 @@ Il permet de simplifier les circuits lorsqu'il est impossible de calculer la ré
 ![[Pasted image 20240118155839.jpg]]
 $$R_{AC} = R_{A'C'}$$
 <=> 
-$$$R_{\alpha}+R_{\gamma}=\frac{R_{c}.(R_{a}+R_{b})}{R_{a}+R_{b}+R_{c}}$$
+$$R_{\alpha}+R_{\gamma}=\frac{R_{c}.(R_{a}+R_{b})}{R_{a}+R_{b}+R_{c}}$$
 
 ### 7. Mesures des grandeurs de tension, courant et résistances
 ##### 7.1 Diviseur de tension
