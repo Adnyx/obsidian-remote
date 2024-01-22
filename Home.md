@@ -35,11 +35,11 @@
 		- [x] Fichiers  [completion:: 2023-12-20]
 		- [x] Différents tris  [completion:: 2024-01-02]
 
-- [ ] 🔼 Électricité
-	- [ ] Synthèse théorie
+- [x] 🔼 Électricité  [completion:: 2024-01-22]
+	- [x] Synthèse théorie  [completion:: 2024-01-22]
 		- [x] Chapitre 1  [completion:: 2023-12-29]
-		- [ ] Chapitre 2
-	- [ ] Exercices théorie
+		- [x] Chapitre 2  [completion:: 2024-01-22]
+	- [x] Exercices théorie  [completion:: 2024-01-22]
 
 - [ ] 🔼 Architecture des ordinateurs - In Progress
 	- Voir fichier "Pour l'examen" dans le dossier Archi pour la progression

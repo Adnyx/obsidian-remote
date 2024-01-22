@@ -154,3 +154,13 @@ Le modèle OSI est une norme de communication réseau.
 | 3      | Réseau            | Détermine le parcours et l'adressage logique (IP).            |
 | 2      | Liaison            | Adressage physique (MAC).            |
 | 1       | Physique            | Transmission binaire numérique ou analogique.            |
+
+# Modèle TCP/IP
+
+
+| Couche | Nom | Explication |
+| ---- | ---- | ---- |
+| 4 | Application | (5,6,7 du modèle OSI) Point d'accès au service réseau. |
+| 3 | Transport | (4 du modèle OSI) Connection de bout en bout. (TCP/UDP) |
+| 2 | Internet | (3 du modèle OSI) Interconnection entre réseaux distants. |
+| 1 | Hôte-réseau | (1 et 2 du modèle OSI) Envoyer des paquets IP. |
