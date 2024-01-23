@@ -10,33 +10,33 @@
 - [x] Différent types de refroidissement (dans les grandes lignes) ✅ 2023-11-29
 - [x] Calculer ne nbr de FLOPS ✅ 2023-11-29
 - [x] Jeu d'instruction ✅ 2023-11-29
-- [ ] Benchmark
-- [ ] RAM
-- [ ] DRAM et SRAM
-- [ ] DDR
-- [ ] Comment connaitre la latence à partir du timing
-- [ ] Les cannaux (slide 23 ram)
-- [ ] Influence des débits
-- [ ] Slide 13,14 disques durs
-- [ ] fragmentation
-- [ ] IOPS def 
-- [ ] SSD
-- [ ] Types de NAND (SLC, MLC, TLC, QLC)
-- [ ] RAID (0, 1 et 5)
+- [x] Benchmark  [completion:: 2024-01-23]
+- [x] RAM  [completion:: 2024-01-23]
+- [x] DRAM et SRAM  [completion:: 2024-01-23]
+- [x] DDR  [completion:: 2024-01-23]
+- [x] Comment connaitre la latence à partir du timing  [completion:: 2024-01-23]
+- [x] Les cannaux (slide 23 ram)  [completion:: 2024-01-23]
+- [x] Influence des débits  [completion:: 2024-01-23]
+- [x] Slide 13,14 disques durs  [completion:: 2024-01-23]
+- [x] fragmentation  [completion:: 2024-01-23]
+- [x] IOPS def  [completion:: 2024-01-23]
+- [x] SSD  [completion:: 2024-01-23]
+- [x] Types de NAND (SLC, MLC, TLC, QLC)  [completion:: 2024-01-23]
+- [x] RAID (0, 1 et 5)  [completion:: 2024-01-23]
 - [ ] RAID logiciel, matériel et pseudo-matériel
-- [ ] BIOS
-- [ ] Chipset
-- [ ] VRM pourquoi c'est important
-- [ ] Format (ATX)
-- [ ] Que doit faire l'alim
-- [ ] Calculer l'alim nécessaire (W) formule
-- [ ] Rendement électrique
-- [ ] slide 23 alim
-- [ ] GPU à quoi ça sert
-- [ ] Formats GPU
-- [ ] Sorties, alim, ram
-- [ ] Comment choisir une carte graphique, gaming et scientifique (en gras dans l'ordre)
-- [ ] Bande passante
+- [x] BIOS  [completion:: 2024-01-23]
+- [x] Chipset  [completion:: 2024-01-23]
+- [x] VRM pourquoi c'est important  [completion:: 2024-01-23]
+- [x] Format (ATX)  [completion:: 2024-01-23]
+- [x] Que doit faire l'alim  [completion:: 2024-01-23]
+- [x] Calculer l'alim nécessaire (W) formule  [completion:: 2024-01-23]
+- [x] Rendement électrique  [completion:: 2024-01-23]
+- [x] slide 23 alim  [completion:: 2024-01-23]
+- [x] GPU à quoi ça sert  [completion:: 2024-01-23]
+- [x] Formats GPU  [completion:: 2024-01-23]
+- [x] Sorties, alim, ram  [completion:: 2024-01-23]
+- [x] Comment choisir une carte graphique, gaming et scientifique (en gras dans l'ordre)  [completion:: 2024-01-23]
+- [x] Bande passante  [completion:: 2024-01-23]
 - [ ] Interfaces PCI-E
 - [ ] Définition et Résolution (écrans)
 

@@ -2,7 +2,7 @@
 # - TODO -
 
 [Github](https://github.com/Adnyx/obsidian-remote)
-## Synthèses
+## Synthèses Q1
 
 - [x] 🔼 IoE  [completion:: 2024-01-17]
 	- [x] Bases de l'IoE  [completion:: 2024-01-17]
