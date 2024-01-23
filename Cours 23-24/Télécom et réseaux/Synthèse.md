@@ -44,7 +44,7 @@
 | Virtualisation                 | Faire fonctionner plusieurs systèmes sur un même serveur physique (voir pg 65/66 aventages et inconvénients)                                                                                                                                                     |
 | Cloud computing                | Utiliser des ressources informatiques sous forme de service sur un réseau                                                                                                                                                                                        |
 | CPL (courant porteur de ligne) | repose sur la possibilité de connecter un périphérique au réseau grâce à n'importe quelle prise électrique                                                                                                                                                       |
-|  Multicast                              |                                                                                                                                                                                                                                                                  |
+|  Multicast                              | Transmission à 2 utilisateurs ou plus                                                                                                                                                                                                                                                                 |
 
 ### Normes cable ethernet 
 
