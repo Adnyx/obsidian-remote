@@ -69,9 +69,47 @@ Il n'y a que des méthodes dans l'interface. Son seul but est d'obliger les mét
 Classe Humain implémente soit la classe Étudiant avec la méthode Étudier soit la classe Prof avec la méthode Enseigner.
 
 ### Le constructeur
+Valeur initiales à la création d'une classe. 
 3 types de constructeurs:
 - Par défaut (pas de paramètre)
 - Par recopie (Le paramètre est une autre instance de classe)
 - Paramétrique (on recrée un constructeur) - on va l'utiliser le plus
+### Association
+A et B s'entraide mais ils ne dépendent pas de l'un l'autre
+### Agrégation
+L'objet A a besoin de B mais le cycle de vie de B ne dépend pas de A
+### Composition
+L'objet A a besoin de B mais le cycle de vie de B dépend de A. Ex: Un livre, pour être un livre a besoin de pages. Sans pages ça n'est plus un livre. Pas de multiple-multiple: Un livre peut avoir plusieurs pages mais une page ne peut pas faire partie de plusieurs livre.
 
+### Héritage
+On définit un lien de parenté entre deux classes. Ex: Voiture est un véhicule à roues comme moto et camion.
 
+### Héritage multiple
+Quand une classe fille appartient à plusieurs classes mères.
+Ex: Un professeur est une classe fille à la fois de personne et de employé.
+
+### Overload
+Déclarer deux méthodes de même nom dans une même classe.
+### Override
+Modifier le comportement d'une méthode selon le type d'objet qui l'invoque.
+
+### Classe: rappel
+Def -> voir slides
+
+\+ public: Visible par tous les clients de la classe
+\# protégé: visible pour les sous-classes de la classe
+\- privé: visible que par les objets de la classe dans laquelle il est déclaré
+
+### Propriétés et variables:
+{readOnly}
+{redefines nomAttribu}
+{ordered}
+{unique} - plusieurs éléments mais aucun identique
+{nonunique} - plusieurs valeurs avec doublons
+
+```
++nom: string = "nomDuGars"{readOnly}
+```
+
+### Liaisons entre les classes
+Voir diapo 96 de prog avancée

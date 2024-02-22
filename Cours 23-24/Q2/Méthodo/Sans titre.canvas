@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"b21471ae5ee1b6df","x":-300,"y":-40,"width":140,"height":60,"type":"text","text":"Patrons"},
+		{"id":"102cfc665e63a08a","x":-57,"y":-40,"width":125,"height":60,"type":"text","text":"cas 2"},
+		{"id":"fd00acc7637e2481","x":-57,"y":-140,"width":125,"height":60,"type":"text","text":"cas 1"},
+		{"id":"c9cc1f1989fd45ea","x":140,"y":-70,"width":184,"height":60,"type":"text","text":"Bibliothèque"}
+	],
+	"edges":[
+		{"id":"0a5f1109bc87c67e","fromNode":"b21471ae5ee1b6df","fromSide":"right","toNode":"fd00acc7637e2481","toSide":"left"},
+		{"id":"f398431b4eddd94b","fromNode":"b21471ae5ee1b6df","fromSide":"right","toNode":"102cfc665e63a08a","toSide":"left"},
+		{"id":"15017c0babab4a6f","fromNode":"fd00acc7637e2481","fromSide":"right","toNode":"c9cc1f1989fd45ea","toSide":"left"},
+		{"id":"b6b31cbcbc2a0445","fromNode":"102cfc665e63a08a","fromSide":"right","toNode":"c9cc1f1989fd45ea","toSide":"left"}
+	]
+}
