@@ -74,6 +74,12 @@ Représenté par un losange: père et mère donnent enfant
 
 OCL: Ajouter des contraintes sur le diagramme
 
+### Méthodologies principales
+- Scrum
+- Waterfall
+- Prince2
+- 
+
 ### Exercice
 Comment accompagner un salarié dans la mise en oeuvre d'un nouveau logiciel ?
 

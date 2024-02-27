@@ -70,28 +70,30 @@ Classe Humain implémente soit la classe Étudiant avec la méthode Étudier soi
 
 ### Le constructeur
 Valeur initiales à la création d'une classe. 
+Fonction particulière appelée lors de l'instenciation
 3 types de constructeurs:
 - Par défaut (pas de paramètre)
 - Par recopie (Le paramètre est une autre instance de classe)
 - Paramétrique (on recrée un constructeur) - on va l'utiliser le plus
 ### Association
-A et B s'entraide mais ils ne dépendent pas de l'un l'autre
+A et B s'entraide mais ils ne dépendent pas de l'un l'autre. Une classe utilise une autre classe.
 ### Agrégation
-L'objet A a besoin de B mais le cycle de vie de B ne dépend pas de A
+L'objet A a besoin de B mais le cycle de vie de B ne dépend pas de A. Une classe qui est composée d'une autre mais leur cycle de vie n'est pas lié.
 ### Composition
 L'objet A a besoin de B mais le cycle de vie de B dépend de A. Ex: Un livre, pour être un livre a besoin de pages. Sans pages ça n'est plus un livre. Pas de multiple-multiple: Un livre peut avoir plusieurs pages mais une page ne peut pas faire partie de plusieurs livre.
 
 ### Héritage
-On définit un lien de parenté entre deux classes. Ex: Voiture est un véhicule à roues comme moto et camion.
+On définit un lien de parenté entre deux classes. Ex: Voiture est un véhicule à roues comme moto et camion. Du plus général au plus spécifique (flèche dans le sens de la généralisation).
 
 ### Héritage multiple
 Quand une classe fille appartient à plusieurs classes mères.
 Ex: Un professeur est une classe fille à la fois de personne et de employé.
 
 ### Overload
-Déclarer deux méthodes de même nom dans une même classe.
+Déclarer deux méthodes de même nom mais avec des paramètres différents dans une même classe.
 ### Override
 Modifier le comportement d'une méthode selon le type d'objet qui l'invoque.
+Même méthode, mêmes paramètres
 
 ### Classe: rappel
 Def -> voir slides
@@ -113,3 +115,47 @@ Def -> voir slides
 
 ### Liaisons entre les classes
 Voir diapo 96 de prog avancée
+
+### Polymorphisme
+Concept qui permet d'adapter une méthode selon sa définition.
+
+### Flexibilité
+Les interfaces offrent une plus grande flexibilité (voir slide pour full def)
+
+### Classe abstraite
+Classe qu'on ne vas jamais instancier. 
+
+
+"Tu peux manipuler tes salariés de manière transparente" - Johan Depreter 2024
+
+
+### À noter: 
+En python, les interfaces ne sont pas implémentées de la même manière que dans les autres languages car python est typé dynamiquement.
+
+### 
+
+
+
+# Exercices:
+ ### Super Hero: exemple en c++
+```cpp
+class SuperHero{
+	public:
+		string nom;
+		int force;
+		int vitesse;
+		string catchPhrase;
+		void sauverLeMonde();
+		void seBattre();
+		void seDéfendre();
+};
+
+int main() {
+	SuperHero batman;
+	batman.nom = "Batman"
+	batman.force = 9;
+	batman.vitesse = 7;
+	batman.catchPhrase = "I'm Batman"
+}
+```
+

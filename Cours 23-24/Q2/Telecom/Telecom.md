@@ -41,3 +41,5 @@ sud:
 
 
 Suite: Ajouter le département Testing (20 personnes) et un espace client (100 personnes) - optimisé
+
+### Segmentation IPv6
