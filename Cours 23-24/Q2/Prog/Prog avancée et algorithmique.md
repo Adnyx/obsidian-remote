@@ -1,4 +1,4 @@
-
+	 
 ## Programmation orientée objet (POO)
 La POO est une façon de penser différente de la programmation procédurale:
 En procédural:
@@ -115,7 +115,9 @@ Def -> voir slides
 
 ### Liaisons entre les classes
 Voir diapo 96 de prog avancée
-
+- Composition:
+	- Si le contenant meurt, le contenu meurt
+-  
 ### Polymorphisme
 Concept qui permet d'adapter une méthode selon sa définition.
 
@@ -132,7 +134,9 @@ Classe qu'on ne vas jamais instancier.
 ### À noter: 
 En python, les interfaces ne sont pas implémentées de la même manière que dans les autres languages car python est typé dynamiquement.
 
-### 
+### Les fragments combinés 
+Assertion: affirmation qu'on a pas besoin de prouver
+
 
 
 
@@ -159,3 +163,6 @@ int main() {
 }
 ```
 
+Exam: voir slide 230
+
+guillaume rosin

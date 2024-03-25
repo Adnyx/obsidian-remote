@@ -1,11 +1,11 @@
-
+confi
 # TP
 ## Commandes
 
 | Commandes                             | Besoins               | Descriptions                                                                  |
 | ------------------------------------- | --------------------- | ----------------------------------------------------------------------------- |
 | {commande} ?                          |                       | `Donne des informations sur la commande tappée`                               |
-| show  ip interface breif              |                       | `Donne une liste des interfaces disponibles`                                                                              |
+| show  ip interface breif              |                       | `Donne une liste des interfaces disponibles`                                  |
 | show version                          |                       | `Donne la version de cisco`                                                   |
 | show clock                            |                       | `Donne l'heure`                                                               |
 | show running-config                   |                       | `Montre le fichier de configuration stocké dans la vram`                      |
